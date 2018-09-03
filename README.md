@@ -1,15 +1,6 @@
 # bot<?php 
 
 /*
-//FOXLEARN.IR
-//فاکس لرن
-Programmer
- < Munir > @Chist_Team
-~~~~~~~~~~~~
-Aides developer
-« Mohammed » @im_king_eblisam
-«~~~~~~~~~~~»
-Channel = @Chist_Team
 */
 ob_start();
 $API_KEY = 646427522:AAE4cm_afM-jx1IY-TBypaRlNsG71M_hYh4'; //توکن ربات
